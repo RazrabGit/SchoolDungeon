@@ -5,6 +5,7 @@ This mod adds a new dungeon - school. Has only one fire exit. As default, spawns
 ![Screenshot_2](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_2.png "Screenshot_2")
 ![Screenshot_3](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_3.png "Screenshot_3")
 ![Screenshot_4](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_4.png "Screenshot_4")
+
 Also check my [custom moon](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/SchoolMoon/)
 # Known issues
 - Game crashes on some moons with this generated dungeon. I think, because a big size of this dungeon are not working, but maybe not so.

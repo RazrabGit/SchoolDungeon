@@ -1,5 +1,6 @@
 # SchoolDungeon
 This mod adds a new dungeon - school. Has only one fire exit. As default, spawns on "Dine" and "MAOY School".
+
 ![Screenshot_1](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_1.png "Screenshot_1")
 ![Screenshot_2](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_2.png "Screenshot_2")
 ![Screenshot_3](https://raw.githubusercontent.com/RazrabGit/SchoolDungeon/main/Screenshots/Screenshot_3.png "Screenshot_3")
